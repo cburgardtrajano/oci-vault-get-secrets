@@ -1,4 +1,4 @@
-## Oci Get Secrets
+## OCI Get Secrets
 
 
 ### Markdown
